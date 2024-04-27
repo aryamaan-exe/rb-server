@@ -2,5 +2,5 @@ Flask==2.2.2
 Werkzeug==2.2.2
 tensorflow==2.16.1
 numpy==1.12.1
-opencv-python==4.8.0
+opencv-python==4.8.0.74
 setuptools==69.5.1
